@@ -7,3 +7,9 @@ Dans le cadre du projet semestriel d’électronique, nous devrons concevoir, r�
 Ensuite, nous devrons réaliser un clip vidéo de 2 minutes mettant en avant notre synthétiseur et notre composition, afin de participer à un concours de créativité.
 
 Vous retrouverez ici notre code arduino ainsi que la partie processing en java. Pour que le projet fonctionne bien merci de reproduire les branchements visible en dessous. 
+
+En lançant la partie Processing vous devriez arriver sur une interface graphique comme celle-ci si tout fonctionne.  
+
+Attention à ne pas avoir de Serial en action en même temps. 
+
+![](./Ressources/processing.png)
