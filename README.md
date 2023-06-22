@@ -27,3 +27,7 @@ Attention à ne pas avoir de Serial en action en même temps.
 
 Les branchements sont simple. Pour notre projet, nous devions utiliser une NE5555, cependant si vous voulez le réaliser plus simplement, il suffit de faire une lecture de résistance au niveau du clavier pour récupérer le bouton enfoncé.
 Pour la thérémine, il suffit d'utiliser une résistance lumineuse ou un capteur ultrason, avec un map sur l'Arduino, il est facile de changer la note. 
+
+## Vidéo 📹
+
+[Vidéo de rendu](https://www.youtube.com/watch?v=U6uBJPlFW7I)
