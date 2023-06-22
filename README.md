@@ -14,13 +14,6 @@ Attention à ne pas avoir de Serial en action en même temps.
 
 ![](./Ressources/processing.png)
 
-## Les quatre héros à l'origine 👨‍🚀
-
-- [@Côme](https://github.com/comecervantes)
-- [@Florian](https://github.com/FlorianBonelli)
-- [@Jean-Félix](https://github.com/JFGrad)
-- [@Marco](https://github.com/marcoofrt)
-
 ## Logiciels nécessaires 💻
 
 - [Arduino](https://www.arduino.cc/en/software)
